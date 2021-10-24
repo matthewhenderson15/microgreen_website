@@ -1,0 +1,18 @@
+{
+    "product": [
+        {
+            "id": "hdmdu0t80yjkfqselfc",
+            "name": "Cilantro",
+            "stock": 10,
+            "price": 30,
+            "description": "Full tray of micro cilantro."
+        },
+        {
+            "id": "3dc7fiyzlfmkfqseqam",
+            "name": "Pea Shoots",
+            "stock": 10,
+            "price": 25,
+            "description": "Full tray of pea shoots."
+        }
+    ]
+}
